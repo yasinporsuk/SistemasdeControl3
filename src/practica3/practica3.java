@@ -13,5 +13,11 @@ public class practica3 {
     }
 	public static double calcularArea(int base, int altura) {
 		return base * altura / 2; }
-	
+	 public static double calaACirc(int radio) {
+			double area = 3.14*(radio^2);
+			return area;
+		}public static double perimetroACirc(int radio) {
+			double perimetro=2*(3.14*radio);
+			return perimetro;
+		}	
 }
