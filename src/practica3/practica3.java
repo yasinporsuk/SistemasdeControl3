@@ -32,9 +32,11 @@ public static double areaCilindro(int radio) {
 }
 //Metodo para calcular el cubo
 //área de un cubo
-		//System.out.println("Introduce el lado de un cubo: ");
-		//int ladoCubo = entrada.nextInt();
-		//System.out.println("El área de un cubo es: " + areaCubo(ladoCubo));
+public static int cubo() {
+		System.out.println("Introduce el lado de un cubo: ");
+		int ladoCubo = entrada.nextInt();
+	System.out.println("El área de un cubo es: " + areaCubo(ladoCubo));
+}
 }
 
 
