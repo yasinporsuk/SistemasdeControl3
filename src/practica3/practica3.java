@@ -29,6 +29,14 @@ public static double areaRectangulo(int lado1rec,int lado2rec) {
 public static double areaCilindro(int radio) {
 	double area = 1;
 	return area;
+}
+//Metodo para calcular el cubo
+//área de un cubo
+		//System.out.println("Introduce el lado de un cubo: ");
+		//int ladoCubo = entrada.nextInt();
+		//System.out.println("El área de un cubo es: " + areaCubo(ladoCubo));
+}
 
-}
-}
+
+
+
