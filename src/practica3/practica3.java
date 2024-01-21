@@ -20,9 +20,15 @@ public class practica3 {
 			double perimetro=2*(3.14*radio);
 			return perimetro;
 		}	
+
+public static double areaRectangulo(int lado1rec,int lado2rec) {
+	return ((lado1rec*2) + (lado2rec*2));
+  }
+  
     //metodo para calcular el área de un cilindro
 public static double areaCilindro(int radio) {
 	double area = 1;
 	return area;
+
 }
 }
